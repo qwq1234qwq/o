@@ -1,0 +1,3 @@
+/home/o/study/apple/build/CMakeFiles/rebuild_cache.dir
+/home/o/study/apple/build/CMakeFiles/edit_cache.dir
+/home/o/study/apple/build/CMakeFiles/apple.dir
